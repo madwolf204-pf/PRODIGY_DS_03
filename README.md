@@ -32,10 +32,10 @@ The analysis and modeling are conducted in the Decision_tree_task3.ipynb Jupyter
  
  * Data Loading and Preprocessing: Initial inspection of the data, handling missing values, and encoding categorical variables (e.g., using one-hot encoding or label encoding).
 
- Feature Scaling: Preparing numerical features for modeling.
+ * Feature Scaling: Preparing numerical features for modeling.
 
- Model Training: A Decision Tree Classifier is trained on the preprocessed data.
+ * Model Training: A Decision Tree Classifier is trained on the preprocessed data.
 
- Evaluation: The model's performance is evaluated using standard classification metrics such as accuracy, precision, recall, and the confusion matrix.
+ * Evaluation: The model's performance is evaluated using standard classification metrics such as accuracy, precision, recall, and the confusion matrix.
 
- Visualization: The trained Decision Tree structure is visualized to provide insights into the rules the model uses to make predictions.
+ * Visualization: The trained Decision Tree structure is visualized to provide insights into the rules the model uses to make predictions.
